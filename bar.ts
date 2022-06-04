@@ -8,3 +8,4 @@ console.log(a);
 
 
 console.log('dudududu');
+console.log('lalala');
